@@ -1,0 +1,23 @@
+﻿name = "washerlab"
+main = "worker.js"
+compatibility_date = "2026-05-24"
+workers_dev = true
+
+routes = [
+  { pattern = "washerlab.top/*", zone_id = "5a578d1da4fc2298c0c86d50be07562a" }
+]
+
+[assets]
+directory = "site"
+html_handling = "drop-trailing-slash"
+not_found_handling = "404-page"
+
+[[kv_namespaces]]
+binding = "NEWSLETTER_KV"
+id = "57cffe569a0c4375bb99f9079183076a"
+
+[vars]
+SITE_URL = "https://washerlab.top"
+CONTENT_GENERATION_ENABLED = "true"
+DAILY_ARTICLE_COUNT = "3"
+MIN_WORD_COUNT = "2000"

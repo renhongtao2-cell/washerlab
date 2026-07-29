@@ -1,0 +1,12 @@
+{
+  "name": "global-game-guides",
+  "version": "1.0.0",
+  "description": "Global Game Guides — daily game guides & ebooks",
+  "private": true,
+  "dependencies": {
+    "puppeteer-core": "^23.0.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.113.0"
+  }
+}
