@@ -1,0 +1,85 @@
+{
+    "articles":  [
+                     {
+                         "date":  "2026-07-29",
+                         "title":  "7 Beginner Pressure Washer Mistakes",
+                         "category":  "explanations",
+                         "wordCount":  1800,
+                         "slug":  "articles/7-beginner-pressure-washer-mistakes"
+                     },
+                     {
+                         "date":  "2026-07-29",
+                         "title":  "Does Higher PSI Mean Better Cleaning?",
+                         "category":  "myth-busting",
+                         "wordCount":  2200,
+                         "slug":  "articles/does-psi-mean-better-cleaning"
+                     },
+                     {
+                         "date":  "2026-07-29",
+                         "title":  "Do You Actually Need a Commercial Pressure Washer?",
+                         "category":  "beginner-guides",
+                         "wordCount":  2400,
+                         "slug":  "articles/need-commercial-pressure-washer"
+                     },
+                     {
+                         "date":  "2026-07-29",
+                         "title":  "Pressure Washer Nozzle Guide: What Each Spray Pattern Does",
+                         "category":  "explanations",
+                         "wordCount":  1500,
+                         "slug":  "articles/pressure-washer-nozzle-guide"
+                     },
+                     {
+                         "date":  "2026-07-29",
+                         "title":  "How Often Should You Pressure Wash Your House, Driveway, and Deck?",
+                         "category":  "seasonal-tips",
+                         "wordCount":  1600,
+                         "slug":  "articles/how-often-pressure-wash-house"
+                     }
+                 ],
+    "reviews":  [
+                    {
+                        "rating":  4.4,
+                        "title":  "Sun Joe SPX3000 Review: Is It Worth Buying?",
+                        "category":  "electric",
+                        "price":  119,
+                        "psid":  "2030",
+                        "slug":  "reviews/sun-joe-spx3000",
+                        "gpm":  "1.76",
+                        "date":  "2026-07-14"
+                    },
+                    {
+                        "rating":  4.5,
+                        "title":  "Karcher K5 Premium Review: Best Mid-Range Pick",
+                        "category":  "electric",
+                        "price":  269,
+                        "psid":  "2000",
+                        "slug":  "reviews/karcher-k5-premium",
+                        "gpm":  "1.40",
+                        "date":  "2026-07-15"
+                    },
+                    {
+                        "rating":  4.6,
+                        "title":  "Simpson Megashot MSH3125 Review: Heavy-Duty Power",
+                        "category":  "gas",
+                        "price":  319,
+                        "psid":  "3200",
+                        "slug":  "reviews/simpson-megashot-ms3125",
+                        "gpm":  "2.50",
+                        "date":  "2026-07-16"
+                    }
+                ],
+    "comparisons":  [
+                        {
+                            "date":  "2026-07-17",
+                            "title":  "Sun Joe SPX3000 vs. Bosch EasyAquatak 100: Which is Better?",
+                            "category":  "comparisons",
+                            "slug":  "comparisons/sun-joe-spx3000-vs-bosch-easyaquatak-100"
+                        },
+                        {
+                            "date":  "2026-07-18",
+                            "title":  "Electric vs. Gas Pressure Washers: Which Is Right for You?",
+                            "category":  "comparisons",
+                            "slug":  "comparisons/electric-vs-gas-pressure-washers"
+                        }
+                    ]
+}
