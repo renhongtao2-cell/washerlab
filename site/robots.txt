@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://washerlab.top/sitemap.xml
